@@ -1,0 +1,9 @@
+make[1]: Entering directory '/home/wang_sheng/github.com/make-labs/string-substitution'
+
+	makefile example: string-substitution
+
+fEEt on the strEEt
+a b c
+a,b,c
+,a ,b ,c
+make[1]: Leaving directory '/home/wang_sheng/github.com/make-labs/string-substitution'
