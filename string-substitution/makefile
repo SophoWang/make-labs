@@ -1,4 +1,4 @@
-
+SHELL = /bin/bash
 include ../common/Makefile.common
 
 comma := ,
